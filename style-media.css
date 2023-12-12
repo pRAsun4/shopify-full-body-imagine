@@ -1,0 +1,1184 @@
+@media only screen and (max-width:1920px) {
+  .span-class{
+    opacity: 0;
+  }
+}
+
+
+
+@media only screen and (max-width: 1536px) {
+  .container {
+    width: 1280px;
+  }
+  .header {
+    max-width: 1536px;
+    padding: 1.25rem 6rem;
+  }
+  .wrapper {
+    width: 1440px;
+  }
+  .nav-container-header {
+    padding: 0;
+  }
+  .container-fluid {
+    max-width: 1536px;
+  }
+  .textContainer{
+    margin-top: 0;
+  }
+  .insurence-text{
+    gap: 6rem;
+    display: flex;
+  }
+  .expand-head{
+    font-size: 19px;
+  }
+  .card-expand{
+    padding: 1.5rem 1.87rem;
+  }
+  .para-container{
+    padding: 25px 25px;
+  }
+  .carosol .slide{
+    gap: 40px;
+  }
+  
+  
+}
+
+
+
+@media only screen and (max-width:1366px){
+
+  .vectorContent {
+    padding: 1.125rem 0.75rem;
+  }
+
+
+}
+
+
+
+@media only screen and (max-width: 1280px) {
+  .container {
+    width: 1024px;
+  }
+  .header {
+    max-width: 1280px;
+    padding: 1.25rem 8rem;
+  }
+  .wrapper {
+    width: 1024px;
+  }
+
+  .container-fluid {
+    max-width: 1280px;
+  }
+  .container-full{
+    padding-top: 2rem;
+  }
+  
+  .textContainer {
+    margin: 0;
+    
+    padding-bottom: 5rem;
+  }
+  .text-bold {
+    margin-top: 6rem;
+    height: auto;
+    width: auto;
+  }
+  .headText {
+    font-size: 4rem;
+  }
+  .ins-para{
+    max-width: 24rem;
+  }
+
+  .border-container {
+    padding: 1.5rem 1.688rem;
+    gap: 1.75rem;
+  }
+
+
+  .card-expand{
+    padding: 1.5rem 0.87rem;
+  }
+  .para-container {
+    padding: 13px 15px;
+    gap: 1.25rem;
+  }
+  .close-container{
+    gap: 1.75rem;
+  }
+  .expand-head{
+    font-size: 17px;
+  }
+
+  .text-content{
+    font-size: 13px;
+  }
+
+
+
+  .schedule-container{
+    padding: 5rem 0.688rem;
+  }
+  .schedule-catagory{
+    gap: 2rem;
+  }
+
+
+  .uper-box-para{
+    text-align: start;
+    height: auto;
+  }
+  .uper-box{
+    align-items: flex-start;
+    padding-left: 2rem;
+  }
+  .price-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .para-logo{
+    right: 2.2rem;
+    bottom: 0px;
+  }
+  .lower-box{
+    padding-left: 1rem;
+  }
+  .lower-head{
+    gap: 5.75rem;
+  }
+  .carosol .slide{
+    gap: 20px;
+  }
+  .content-para-head{
+    font-size: 2rem;
+  }
+  .swiper-svg{
+    width: 6rem;
+    height: 5rem;
+  }
+  .faq-head{
+    margin-bottom: 2rem;
+  }
+}
+
+
+
+
+@media only screen and (max-width: 1024px) {
+  .container {
+    width: 767px;
+  }
+  .header {
+    max-width: 1024px;
+    padding: 1.25rem 2rem;
+  }
+  .wrapper {
+    width: 980px;
+  }
+  .container-full {
+    display: flex;
+    align-items: flex-start;
+  }
+  .textContainer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .span-class{
+    opacity: 100;
+  }
+  .container-1 {
+    gap: 10px;
+  }
+  .ratingContainer{
+    padding-bottom: 5rem;
+  }
+  .insurence-text{
+    gap: 1rem;
+  }
+  .vector{
+    display: none;
+  }
+  .expand-head{
+    font-size: 13px;
+  }
+  .text-content{
+    font-size: 12px;
+  }
+  .schedule-catagory{
+    gap: 1rem;
+  }
+  .schedule-box-item{
+    gap: 1.75rem;
+  }
+  .box-div-2-head{
+    font-size: 23px;
+  }
+  .box-div-2-para{
+    font-size: 12px;
+  }
+  .lower-head{
+    gap: 3.75rem;
+  }
+  .container-grid{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 2rem 2rem;
+  }
+  .questions{
+    font-size: 20px;
+  }
+  .content-container{
+    padding: 2rem;
+  }
+  .mri-content-head{
+    font-size: 2rem;
+  }
+  .lists-btn{
+    padding: 0.875rem 0.5rem;
+  }
+  .payment-container {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 2rem 1rem;
+  }
+  
+  .payment-container-box{
+    border: 1px solid #a3a3a3;
+  }
+  .payment-container{
+    border: none;
+  }
+  
+  .btn-lists{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .bottom-para{
+    max-width: 35rem;
+  }
+  .carosol .slide{
+   flex-direction: column;
+  }
+  .slide-img-div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  .carosol .slide img{
+    width: 100%;
+  }
+  .img-content-para{
+    gap: 1.5rem;
+  }
+  .content-para-head{
+    font-size: 2rem;
+  }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 640px;
+  }
+  .header {
+    max-width: 768px;
+    padding: 1.25rem 4rem;
+  }
+  
+  .header-nav-lists li:nth-child(2){
+    display: none;
+  }
+  .anchorFlex{
+    max-width: 11rem;
+    padding: 10px 8px;
+  }
+  .svg-head{
+    /* max-width: 3rem;
+    max-height: 3rem; */
+    display: flex;
+    height: auto;
+  }
+  .text{
+    font-size: 19px;
+  }
+
+
+  .headText{
+    font-size: 3rem;
+  }
+
+
+  .insurenceSection{
+    padding: 3rem 0;
+    gap: 2rem;
+  }
+  .insurence-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+  .insuHead{
+    font-size: 40px;
+  }
+  .ins-para{
+    max-width: 35rem;
+  }
+  .smallText{
+    font-size: 14px;
+  }
+  .company-head{
+    gap: 2.75rem;
+  }
+  .company-card{
+    height: 5.6rem;
+  }
+
+  .swiper-button-next, .swiper-rtl .swiper-button-prev{
+    right: 8px;
+  }
+  .swiper-button-prev, .swiper-rtl .swiper-button-next{
+    left: 9px;
+  }
+  
+
+  .vector-head{
+    font-size: 40px;
+  }
+  .vector-para{
+    font-size: 14px;
+  }
+
+
+  .container-grid {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 2rem 0rem;
+  }
+  .para-container{
+    width: 100%;
+    padding: 35px 25px;
+    gap: 2.75rem;
+  }
+  .card-box{
+    max-width: 100%;
+  }
+  .close-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .firstCard, .secondCard, .thirdCard{
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .expand-head{
+    font-size: 18px;
+  }
+  .text-content{
+    font-size: 15px;
+  }
+
+  .para-logo{
+    right: 2.237rem;
+    bottom: 0px;
+  }
+
+
+
+  .schedule-head-head{
+    font-size: 2rem;
+  }
+  .schedule-catagory{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 3rem;
+    align-items: flex-start;
+  }
+  .schedule-container{
+    gap: 3rem;
+   
+  }
+  .box-div-2{
+    height: auto;
+  }
+  .box-item-head{
+    font-size: 4rem;
+  }
+
+
+  .pay-head{
+    font-size: 38px;
+  }
+  .payment-container{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  
+  .uper-box{
+    align-items: flex-start;
+  }
+  .uper-box-para{
+    text-align: left;
+  }
+  .content-box, 
+  .payment-container-box, 
+  .uper-box 
+  {
+    width: 100%;
+  }
+  
+  
+  .content-box{
+    padding-right: 3rem;
+    margin-bottom: 0;
+    padding-left: 3rem;
+  }
+
+
+  .expart-mri-wraper{
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 2rem 0rem;
+  }
+  .mri-content-head{
+    font-size: 2rem;
+  }
+  .mri-btn{
+    padding: 0.875rem 0.875rem;
+  }
+  .content-container{
+    width: 100%;
+    padding: 3rem;
+  }
+  .mri-wraper-content{
+    background-position: bottom -132px right 0px;
+    
+  }
+  
+  .footer-second-head{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+  .btn-lists{
+    display: flex;
+    flex-direction: row;
+  }
+  .footer-bottom{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+  .lower-box{
+    padding-bottom: 2rem;
+    display: flex;
+    width: 100%;
+  }
+  .lower-head{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .swiper-svg{
+    width: 4rem;
+    height: 4rem;
+  }
+  .content-para-head{
+    font-size: 25px;
+    color: #3F3F46;
+  }
+}
+
+
+
+@media only screen and (max-width: 640px) {
+  .container {
+    width: 100%;
+  }
+  .header {
+    padding: 15px;
+  }
+  .navClass{
+    width: 640px;
+  }
+  
+  .ratingContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    align-items: flex-start;
+    gap: 2.5rem;
+    padding-bottom: 2rem;
+  }
+
+  .insurenceSection {
+    padding: 3rem 0;
+    gap: 3rem;
+  }
+  .insurence-text {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .insuHead {
+    width: auto;
+    height: auto;
+    font-size: 25px;
+  }
+  .insurence-text {
+    display: flex;
+    gap: 2rem;
+  }
+  .ins-para {
+    /* max-width: 36rem; */
+    height: auto;
+  }
+  .smallText {
+    font-size: 13px;
+  }
+  .company-head {
+    gap: 1.75rem;
+  }
+  .company-card {
+    width: 9.3rem;
+    height: 4.6rem;
+    padding: 0.75rem 1.063rem 0.75rem 1rem;
+  }
+
+  .border-container {
+    padding: 0.5rem 0.688rem;
+  }
+  .vector {
+    display: none;
+  }
+  .vectorContent {
+    padding: 1.125rem 1.75rem;
+    gap: 2rem;
+  }
+  .text-box {
+    max-width: 35rem;
+  }
+  .vector-para {
+    /* max-width: 35rem; */
+    height: auto;
+    font-size: 15px;
+  }
+  .vector-head {
+    font-size: 30px;
+  }
+
+  .c-padding {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 3.5rem  0.875rem;
+    gap: 2.5rem;
+  }
+  .container-grid{
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 2rem 0rem
+  }
+  .card-box{
+    display: flex;
+    max-width:  37.7rem;
+    align-items: center;
+  }
+  .firstCard, .secondCard, .thirdCard{
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .card-expand{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .para-container{
+    width: 100%;
+
+  }
+  .close-container{
+    width: 100%;
+    gap: 0;
+    display: inline-flex;
+    justify-content: space-between;
+  }
+  .text-content{
+    max-width: 30rem;
+  }
+
+  .schedule-container{
+    padding: 2rem 1.688rem;
+    gap: 2rem;
+    display: flex;
+    align-items: flex-start;
+  }
+  .schedule-head-head{
+    max-width: 30rem;
+    height: auto;
+    font-size: 2rem;
+  }
+  .schedule-catagory{
+    display: flex;
+    flex-direction: column;
+  }
+  .schedule-btn-box{
+    padding-bottom: 2rem;
+  }
+}
+
+
+
+@media only screen and (max-width:480px) {
+  .header{
+    padding: 17px;
+  }
+  .header-icon{
+    width: 11rem;
+    height: 2.5rem;
+  }
+  .ins-para{
+    max-width: 25rem;
+  }
+
+  .logo-frame{
+    gap: 1.5rem;
+  }
+
+  .specialty-head{
+    font-size: 2rem;
+  }
+
+  .pay-head{
+    font-size: 2rem;
+    height: auto;
+  }
+
+  .faq-head{
+    font-size: 2rem;
+  }
+  .questions{
+    font-size: 14px;
+  }
+
+  .content-container{
+    padding: 1rem;
+  }
+
+  .logo-lists{
+    gap: 1rem;
+  }
+
+  .grid-content{
+    column-gap: 3rem;
+  }
+
+  .btn-container-para{
+    font-size: 14px;
+  }
+  .lists-btn{
+    width: 10rem;
+  }
+  .list-btn-icon{
+    width: 16px;
+    height: 15px;
+  }
+  .list-btn-para{
+    font-size: 12px;
+  }
+  .bottom-para{
+    max-width: 27rem;
+  }
+  .content-box{
+    padding-left: 2rem;
+  }
+  .uper-box{
+    padding-left: 1rem;
+  }
+  .content-para-head{
+    font-size: 20px;
+  }
+  .swiper-svg{
+    width: 3rem;
+    height: 3rem;
+  }
+  .s-btn{
+    display: none;
+  }
+  .expart-mri{
+    margin-bottom: 2rem;
+  }
+  .faq-section{
+    margin-bottom: 2rem;
+  }
+  .specialty{
+    margin-bottom: 2rem;
+  }
+  .recSign{
+    margin-bottom: 2rem;
+  }
+  #hero{
+    margin-bottom: 2rem;
+  }
+  .lower-box{
+    padding-bottom: 0;
+  }
+
+}
+
+
+@media only screen  and (max-width: 425px) {
+  .container {
+    width: 100%;
+    padding: 1rem 0.5rem;
+    margin: 0;
+  }
+  .header {
+    max-width: 100%;
+    padding: 0.25rem;
+  }
+  .navClass{
+    width: 375px;
+  }
+  .header-nav-items {
+    display: flex;
+    gap: 0.69rem;
+    align-items: center;
+  }
+  .anchorFlex {
+    max-width: 8rem;
+    padding: 10px 7px;
+  }
+
+  #hero {
+    width: 100%;
+    background-size: cover;
+    background-position: bottom -58px right -118px;
+  }
+
+  .text-4 {
+    font-size: 12px;
+  }
+  .wrapper {
+    gap: 15px;
+  }
+  .callLogo {
+    display: none;
+  }
+  
+
+  .textContainer {
+    margin-left: 0px;
+    padding: 5px;
+    margin-top: 0px;
+    left: 0px;
+    position: relative;
+  }
+  .headText {
+    font-size: 2rem;
+  }
+  .text-bold {
+    width: auto;
+    height: auto;
+    padding: 3px;
+    margin-top: 4rem;
+  }
+  .text-para {
+    width: auto;
+    height: auto;
+    padding: 2px;
+  }
+  .ratingContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 45px;
+    margin-top: 15px;
+    padding: 5px;
+  }
+  .buttonBox {
+    padding: 1rem;
+  }
+
+  .insurenceSection {
+    gap: 2rem;
+    padding: 2rem 0rem;
+    margin-bottom: 3rem;
+  }
+  .insurence-text {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .insuHead {
+    width: auto;
+    height: auto;
+    font-size: 1.8rem;
+  }
+  .ins-para {
+    width: auto;
+    height: auto;
+    text-align: justify;
+  }
+  .company-head {
+    gap: 1.75rem;
+  }
+  .company-card {
+    width: auto;
+    height: auto;
+    padding: 1rem;
+  }
+
+  .recMain {
+    display: flex;
+    align-items: center;
+  }
+  .border-container {
+    display: flex;
+    gap: 0;
+    padding: 30px 20px;
+    justify-content: flex-start;
+  }
+  .vector {
+    display: none;
+  }
+  .vectorContent {
+    display: flex;
+    padding: 0px;
+    gap: 2.5rem;
+  }
+  .text-box {
+    width: auto;
+    height: auto;
+  }
+  .vector-head {
+    font-size: 1.6rem;
+  }
+  
+  .vector-para {
+    height: auto;
+    font-size: 14px;
+    text-align: justify;
+  }
+  .logo-frame {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  .container-grid {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 2rem;
+    padding-bottom: 2rem;
+  }
+  .card-expand {
+    display: flex;
+    padding: 15px 15px;
+    gap: 40px;
+    justify-content: space-between;
+  }
+  .para-container {
+    width: 100%;
+    padding: 30px 30px;
+  }
+  .close-container {
+    width: 100%;
+  }
+  .expand-head {
+    font-size: 15px;
+  }
+  .specialty-head {
+    font-size: 2rem;
+  }
+  .head-div {
+    padding: 1rem;
+  }
+  .c-padding {
+    display: flex;
+    gap: 1.5rem;
+  }
+  .mri-img {
+    height: 10rem;
+  }
+  .schedule-container {
+    padding: 3rem 0.688rem;
+    gap: 2rem;
+  }
+  .schedule-catagory {
+    display: flex;
+    width: auto;
+    gap: 2rem;
+    flex-direction: column;
+  }
+  .schedule-head-head {
+    font-size: 1.4rem;
+    height: auto;
+  }
+  .schedule-box {
+    display: flex;
+    gap: 44px;
+    width: auto;
+  }
+  .schedule-box-item {
+    gap: 0.75rem;
+    margin-left: 1rem;
+  }
+  .box-item-head {
+    font-size: 3rem;
+  }
+  .box-div-2 {
+    height: auto;
+  }
+  .box-div-2-head {
+    font-size: 15px;
+  }
+  .box-div-2-para {
+    height: auto;
+    font-size: 10px;
+  }
+  .schedule-btn {
+    padding: 0.875rem 1.875rem;
+  }
+
+  .schedule-head-para {
+    font-size: 14px;
+  }
+
+  .pay-head {
+    height: auto;
+    font-size: 1.5rem;
+  }
+  .payment-container {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 1rem;
+    border: none;
+  }
+  .payment-container-box {
+    padding: 1rem;
+    border: 1px solid #a3a3a3;
+  }
+  .head-icon {
+    width: 8rem;
+    height: 8rem;
+  }
+  .uper-box {
+    gap: 1.5rem;
+  }
+  .uper-box-head {
+    width: auto;
+    height: auto;
+  }
+  .uper-box-para {
+    height: auto;
+    font-size: 0.8rem;
+  }
+  .content-box {
+    margin-bottom: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    border-bottom: none;
+  }
+  .price-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  .price {
+    width: auto;
+    height: auto;
+    font-size: 2rem;
+  }
+  .price-para {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .para-logo {
+    width: auto;
+    position: absolute;
+    bottom: 0px;
+    right: 35px;
+  }
+
+  .custom-container {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+  }
+
+  .carosol{
+    margin-bottom: 3rem;
+  }
+  .carosol-lady-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .faq-head {
+    font-size: 1.8rem;
+  }
+  .questions {
+    width: auto;
+    font-size: 15px;
+  }
+  .question-box-container {
+    display: flex;
+    gap: 0;
+    padding: 1.5rem 1rem;
+    justify-content: space-between;
+  }
+
+  .expart-mri-wraper {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    grid-template-rows: 1fr;
+    gap: 1rem;
+  }
+  .content-container {
+    display: flex;
+    padding: 2rem;
+  }
+  .mri-content-head {
+    font-size: 1.6rem;
+  }
+  .mri-wraper-content {
+    background-position: bottom -123px right 0px;
+  }
+
+  .footer{
+    padding: 1.5rem 1rem;
+    gap: 1rem;
+  }
+  .footer-head-container {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+  }
+  .footer-svg {
+    width: 2rem;
+    height: 2rem;
+  }
+  .items-head {
+    font-size: 13px;
+  }
+  .logo-lists {
+    gap: 1rem;
+  }
+  .footer-list > li:first-child {
+    display: none;
+  }
+  .footer-second-head {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+  .grid-content {
+    display: grid;
+    column-gap: 7rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .btn-lists {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+  }
+  .lists-btn {
+    padding: 13px 10px;
+  }
+  
+  .list-btn-para {
+    font-size: 11px;
+  }
+
+  .footer-bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: flex-start;
+  }
+  .bottom-para {
+   width: 100%;
+    font-size: 15px;
+  }
+  .logo-anchor-img{
+    width: 20px;
+    height: 20px;
+  }
+  .logo-anchor{
+    width: auto;
+    height: auto;
+  }
+}
+
+
+@media only screen and (max-width: 375px) {
+  .para-container{
+    padding: 18px 18px;
+  }
+  .button-mri{
+    padding: 0.875rem 0.875rem;
+  }
+  .schedule-btn{
+    padding: 0.875rem 0.875rem;
+  }
+  .upper-btn-box{
+    padding: 0.875rem 0.875rem;
+  }
+  .question-box-container{
+    padding: 10px 11px;
+  }
+  .questions{
+    font-size: 13px;
+  }
+  .answer{
+    padding: 11px 11px;
+  }
+  .back-img{
+    width: 2rem;
+  }
+  .answer{
+    font-size: 13px;
+  }
+  .plusSign{
+    width: 25px;
+  }
+  .minus-hidden{
+    width: 25px;
+  }
+}
